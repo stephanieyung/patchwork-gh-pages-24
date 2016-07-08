@@ -1,0 +1,21 @@
+# Site settings
+title: Stephanie's Profile
+email: stephanieyung@github.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+baseurl: "https://github.com/stephanieyung"
+url: "hhttp://stephanieyung.github.io"
+twitter_username: stephanieyung
+github_username:  stephanieyung
+permalink: /blog/:year/:title/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
