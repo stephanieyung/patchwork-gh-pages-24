@@ -11,7 +11,7 @@ Her accomplishments can be seen here: https://www.linkedin.com/in/stephanieyung?
 Stephanie is looking for various volunteer opportunities related to:  
 
 #### Arts and Culture 
-* Local to SF
+* Local to San Francisco
 * Contemporary arts and culture
 * Art History degree from UCLA 
 
