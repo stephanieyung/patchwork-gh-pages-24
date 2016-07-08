@@ -1,28 +1,25 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkvAAAAJDRkOTQ4Zjg3LTQwNGQtNGJmMS1iNmZjLTdmZmZmZDBjYWM0NA.jpg"
+name: "Stephanie Yung"
+title: "Customer Success Manager"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Stephanie is a Customer Success Manager at GitHub, with experience building long term relationships and selling technical software products.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Her accomplishments can be seen here: https://www.linkedin.com/in/stephanieyung?trk=hp-identity-name
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Stephanie is looking for various volunteer opportunities related to:  
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+#### Arts and Culture 
+* Local to San Francisco
+* Contemporary arts and culture
+* Art History degree from UCLA 
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
+#### Non-Profit Volunteer Work 
+* Beyond Trend at Creative Growth
+* Centre Pompidou Foundation 
 
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Mentoring and Youth 
+* Swim coach
+* Tutor 
+* Nanny 
